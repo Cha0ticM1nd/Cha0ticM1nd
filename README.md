@@ -7,7 +7,7 @@ Hey there! I'm Magda from Poland and I aspire to be a Front-End Developer. I cur
 ### Skills: 
 - HTML 
 - CSS 
-- JS
+- JavaScript
 
 ### About me:
 - 🔭 I’m currently working on some projects from the course. 
